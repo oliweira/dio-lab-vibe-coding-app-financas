@@ -1,5 +1,10 @@
 # 💸 App Ow Finanças Pessoais com Vibe Coding
 
+Projeto de um aplicativo de organização de finanças pessoais desenvolvido com abordagem de Vibe Coding, utilizando IA como parceira de criação. O app permite que usuários controlem gastos, acompanhem metas financeiras e recebam insights personalizados por meio de conversas em linguagem natural.
+
+A solução prioriza simplicidade, acessibilidade e Design Universal, oferecendo uma experiência intuitiva para iniciantes e usuários com diferentes níveis de letramento financeiro. O projeto explora a cocriação com IA para gerar interfaces, fluxos e funcionalidades a partir de intenções bem descritas, focando mais na experiência do usuário do que em detalhes técnicos de implementação.
+
+
 PRD Refinado no copilot Web
 
 
