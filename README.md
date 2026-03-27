@@ -271,15 +271,15 @@ Permitir que qualquer pessoa organize suas finanças de forma simples, natural e
 
 
 ### O que funcionou Bem?
-A conversa em linguagem natural funcionou como esperado para registrar gastos e navegar pelo app.
-A IA entendeu bem as intenções e conseguiu gerar funcionalidades completas quando solicitadas.
-A experiência geral ficou alinhada com a ideia de simplicidade e Design Universal.
+- A conversa em linguagem natural funcionou como esperado para registrar gastos e navegar pelo app.
+- A IA entendeu bem as intenções e conseguiu gerar funcionalidades completas quando solicitadas.
+- A experiência geral ficou alinhada com a ideia de simplicidade e Design Universal.
 
 ### O que não funcionou como esperado?
-O botão de adicionar meta não funcionou corretamente na primeira tentativa.
-Foi necessário solicitar explicitamente o ajuste para que a funcionalidade fosse criada de forma adequada.
+- O botão de adicionar meta não funcionou corretamente na primeira tentativa.
+- Foi necessário solicitar explicitamente o ajuste para que a funcionalidade fosse criada de forma adequada.
 
 ### O que aprendeu sobre conversar com IAs?
-Quanto mais claro e contextualizado é o pedido, melhor a resposta da IA.
-Pequenos problemas podem ser resolvidos rapidamente descrevendo o comportamento esperado, não apenas o erro.
-Tratar a IA como um “colaborador”, explicando o objetivo da funcionalidade, gera resultados mais completos.
+- Quanto mais claro e contextualizado é o pedido, melhor a resposta da IA.
+- Pequenos problemas podem ser resolvidos rapidamente descrevendo o comportamento esperado, não apenas o erro.
+- Tratar a IA como um “colaborador”, explicando o objetivo da funcionalidade, gera resultados mais completos.
