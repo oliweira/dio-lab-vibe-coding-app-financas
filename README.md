@@ -5,7 +5,7 @@ Projeto de um aplicativo de organização de finanças pessoais desenvolvido com
 A solução prioriza simplicidade, acessibilidade e Design Universal, oferecendo uma experiência intuitiva para iniciantes e usuários com diferentes níveis de letramento financeiro. O projeto explora a cocriação com IA para gerar interfaces, fluxos e funcionalidades a partir de intenções bem descritas, focando mais na experiência do usuário do que em detalhes técnicos de implementação.
 
 
-PRD Refinado no copilot Web
+# PRD Refinado no copilot Web
 
 
 ``` markdown
