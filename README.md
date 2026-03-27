@@ -147,3 +147,139 @@ Resultado final do Lovable: https://chat-funds-friend.lovable.app/
 
 <img width="703" height="593" alt="image" src="https://github.com/user-attachments/assets/0d6d49d6-e38c-436f-bd15-ebc2880807d5" />
 
+# Assistente Financeiro Conversacional
+
+Aplicativo de organização de finanças pessoais baseado em conversas em linguagem natural, com foco em simplicidade, acessibilidade e Design Universal.  
+O usuário controla seus gastos, metas e orçamento interagindo com um assistente financeiro, sem formulários complexos ou planilhas.
+
+---
+
+## Visão Geral
+
+O aplicativo combina uma experiência conversacional com visualizações simples, permitindo que o usuário entenda e gerencie sua vida financeira de forma prática, intuitiva e inclusiva.
+
+---
+
+## Funcionalidades
+
+### Conversa com o Assistente Financeiro
+
+- Interface principal em formato de chat
+- Registro de gastos por linguagem natural  
+  - Exemplo: `Gastei 30 reais com almoço`
+- Sugestões de ações rápidas (atalhos de conversa)
+- Canal central de interação com o usuário
+
+**Benefícios**
+- Reduz esforço cognitivo
+- Elimina formulários manuais
+- Facilita o início do controle financeiro
+
+---
+
+### Resumo Financeiro
+
+- Exibição do período financeiro atual
+- Indicadores principais:
+  - Total de gastos
+  - Orçamento mensal
+  - Valor disponível para gastar
+- Mensagens contextuais de apoio à decisão
+- Visualização de gastos por categoria
+  - Barras de progresso por categoria
+  - Percentual do orçamento utilizado
+
+**Benefícios**
+- Clareza imediata da situação financeira
+- Informações essenciais em uma única tela
+- Fácil interpretação para usuários iniciantes
+
+---
+
+### Metas Financeiras
+
+- Listagem de metas financeiras ativas
+- Para cada meta:
+  - Nome
+  - Prazo
+  - Valor acumulado
+  - Valor total
+  - Progresso visual percentual
+- Feedback positivo de engajamento com o uso do app
+
+#### Criação de Metas
+
+- Modal simples e guiado
+- Escolha visual de ícone
+- Campos básicos:
+  - Nome da meta
+  - Valor total
+  - Prazo
+
+**Benefícios**
+- Estimula planejamento financeiro
+- Torna objetivos claros e motivadores
+- Incentiva constância no uso do aplicativo
+
+---
+
+### Insights e Dicas Financeiras
+
+- Recomendações personalizadas em formato de cards
+- Tipos de insights:
+  - Gastos acima da média por categoria
+  - Redução positiva de gastos
+  - Progresso em metas financeiras
+  - Dicas educativas de finanças pessoais
+- Sugestões práticas e acionáveis
+
+**Benefícios**
+- Educação financeira contextual
+- Orientações sem julgamento
+- Apoio contínuo à tomada de decisão
+
+---
+
+## Navegação
+
+- Navegação inferior fixa com quatro seções principais:
+  - Conversa
+  - Resumo
+  - Metas
+  - Dicas
+- Ícones claros e consistentes
+- Layout limpo, com bom espaçamento e contraste
+
+---
+
+## Princípios do Produto
+
+- Linguagem simples e acessível
+- Conversa como principal forma de interação
+- Interfaces claras e com baixa complexidade visual
+- Design Universal, visando boa experiência para o maior número possível de usuários
+- Foco em iniciantes e usuários com baixo letramento financeiro
+
+---
+
+## Proposta de Valor
+
+Permitir que qualquer pessoa organize suas finanças de forma simples, natural e acessível, conversando com um assistente financeiro inteligente e empático.
+``
+
+## Reflexão
+
+
+### O que funcionou Bem?
+#### A conversa em linguagem natural funcionou como esperado para registrar gastos e navegar pelo app.
+#### A IA entendeu bem as intenções e conseguiu gerar funcionalidades completas quando solicitadas.
+#### A experiência geral ficou alinhada com a ideia de simplicidade e Design Universal.
+
+### O que não funcionou como esperado?
+#### O botão de adicionar meta não funcionou corretamente na primeira tentativa.
+#### Foi necessário solicitar explicitamente o ajuste para que a funcionalidade fosse criada de forma adequada.
+
+### O que aprendeu sobre conversar com IAs?
+#### Quanto mais claro e contextualizado é o pedido, melhor a resposta da IA.
+#### Pequenos problemas podem ser resolvidos rapidamente descrevendo o comportamento esperado, não apenas o erro.
+#### Tratar a IA como um “colaborador”, explicando o objetivo da funcionalidade, gera resultados mais completos.
